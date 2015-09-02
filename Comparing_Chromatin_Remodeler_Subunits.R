@@ -14,16 +14,3 @@ histoneData_wilcoxonTest <- function() {
   names(Chromatin_Remod) = CHROMREMOD
   return (Chromatin_Remod)
 }
-
-
-
-# p adjust each of these?
-
-# Sapply with the list of genes that we have been given
-# append each list to a data frame
-
-
-# Multiple hypothesis testing
-# look up function: p.adjust
-
-# Function to get the genome-wide data for 
