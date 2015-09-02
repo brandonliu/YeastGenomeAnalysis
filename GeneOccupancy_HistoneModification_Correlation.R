@@ -1,5 +1,4 @@
-# Task: get correlations of Arp5 occupancy and histone modifications on Arp5-regulated genes.  I believe Devin has two Arp5 occupancy datasets.  Would it be possible for you to do these correlations?  As a comparison it would also be great to do correlations with other INO80 subunits, like Ino80, Ies6, Arp8 etc.
-
+# Obtains correlations of Arp5 occupancy and histone modifications on Arp5-regulated genes
 # The levels of subunits present might be regulating gene expression?
 # Actual numbers are proportional to how many reads mapped their from the sequencing
 
