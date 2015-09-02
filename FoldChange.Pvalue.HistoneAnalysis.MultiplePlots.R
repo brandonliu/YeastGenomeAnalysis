@@ -1,3 +1,11 @@
+
+# This script performs correlation analysis for histone modification data and gene expression data. 
+# Unlike the other version of this script, this one also performs additional analysis that plots
+# multiple correlations side-by-side, so you can compare averages of histone modifications for 
+# genes that are up/down regulated in the presence of a single gene deletion.
+
+
+# INSTRUCTIONS FOR USE
 # 1. Download the ChromatinDB data
 # 2. Use function for significant p-values and fold-changes to generate a subset of data
 # 3. Generate boxplots for each histone marker and look at the distributions
