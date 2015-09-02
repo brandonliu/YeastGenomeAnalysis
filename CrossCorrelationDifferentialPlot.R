@@ -1,6 +1,6 @@
 # Generate a cross-correlation plot from two different E-MAPs (i.e. x-axis represents correlation scores for untreated and y-axis represents stress test for the other one).
 # Query a single gene, and two conditions and it should return a differential plot.
-# Print out a list of genes whose differential is above a certain threshhold?
+# In addition, the function prints out a list of genes whose differential is above a certain threshhold?
 
 library(ggplot2)
 load('EMAPCorrelationObjects.RData')
